@@ -1,1 +1,1 @@
-Alle Dokumente im selben Ordner abspeichern und main.cpp ausführen
+CMake-File ist verlorengegangen, es werden jedoch keine zusätzlichen Libraries benötigt.
